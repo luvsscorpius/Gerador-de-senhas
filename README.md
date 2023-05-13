@@ -1,0 +1,1 @@
+Esse é um projeto de gerador de senhas seguras com HTML, CSS e JavaScript.
